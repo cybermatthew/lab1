@@ -1,0 +1,33 @@
+body {
+	background: #474747 url(bg.png);
+}
+
+h1{
+	text-align: center;
+	color: grey;
+	text-shadow:5px 6px 8px #2a2a2a;
+}
+
+p{
+	color: grey;
+	background-color: #2e2e2e;
+	padding: 10px;
+
+	text-shadow:0px 2px 1px black;
+
+	box-shadow: 3px 3px 1px black;
+}
+
+h4{
+	font-size: 20px;
+	color: #222;
+	text-shadow: 0px 2px 3px #555;
+	text-decoration: underline;
+}
+
+li:hover{
+	color: grey;
+	padding: 10px;
+
+	text-shadow:0px 2px 1px black;
+}
